@@ -6,14 +6,13 @@
 <h3 align="center">I'm Content Creator & Developer</h3>
 
 
-
 ## 🔎〣 About Me
 
 - 🗨️│ My Discord Server: **[EINFXCHPINGU COMMUNITY](https://EinfxchPingu.de/discord)**
-
 - 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)** with a Chatapp and some cool games
 
 - 🎥│ I also have a **[Youtube](https://yt.einfxchpingu.de)** channel with Gaming Content & coding tutorials
+
 
 ## 🚀〣 Languages:
 
