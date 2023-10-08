@@ -15,9 +15,9 @@
 
 - 🎥│ I also have a **[Youtube](https://yt.einfxchpingu.de)** channel with Gaming Content & coding tutorials
 
-## 🚀〣 Languages and Tools:
+## 🚀〣 Languages:
 
-![](https://skillicons.dev/icons?i=java,github,mysql,git,discord,bots,html,css,php,javascript)
+![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript)
 
 <br/>
 </p>
