@@ -8,9 +8,9 @@
 
 ## 🔎〣 About Me
 
-- 🌏│ My Discord Bot: **[Pl4net⚡️Level](https://EinfxchPingu.de/pl4net)**
-- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)** 
-- 🎥│ I also have a **[Youtube](http://yt.einfxchpingu.de)** 
+- 🌏│ My Discord Bot: **[Pl4net⚡️Level](https://EinfxchPingu.de/pl4net)**.
+- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)**.
+- 🎥│ I also have a **[Youtube](http://yt.einfxchpingu.de)** Channel.
 
 
 ## 🚀〣 Languages:
