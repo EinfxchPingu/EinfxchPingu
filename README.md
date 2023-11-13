@@ -8,10 +8,9 @@
 
 ## 🔎〣 About Me
 
-- 🗨️│ My Discord Server: **[EINFXCHPINGU COMMUNITY](https://EinfxchPingu.de/discord)**
-- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)** with a Chatapp and some cool games
-
-- 🎥│ I also have a **[Youtube](https://yt.einfxchpingu.de)** channel with Gaming Content & coding tutorials
+- 🌏│ My Discord Bot: **[Pl4net⚡️Level](https://EinfxchPingu.de/pl4net)**
+- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)** 
+- 🎥│ I also have a **[Youtube](http://yt.einfxchpingu.de)** 
 
 
 ## 🚀〣 Languages:
