@@ -15,7 +15,7 @@
 
 ## 🚀〣 Languages:
 
-![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript, Taurin, Rust)
+![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript,Taurin,Rust)
 
 <br/>
 </p>
