@@ -10,12 +10,12 @@
 
 - 🌏│ My Discord Bot: **[Discord Todo Bot](https://github.com/EinfxchPingu/Discord-Todo-Bot-v14)**.
 - 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)**.
-- 🎥│ I also have a **[Youtube](http://yt.einfxchpingu.de)** Channel.
+- 🎥│ I am a Administrator from **[SnowClient](http://snowclient.de)**.
 
 
 ## 🚀〣 Languages:
 
-![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript,Taurin,Rust)
+![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript,linux,)
 
 <br/>
 </p>
