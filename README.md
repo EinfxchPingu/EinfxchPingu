@@ -8,14 +8,14 @@
 
 ## 🔎〣 About Me
 
-- 🌏│ My Discord Bot: **[Pl4net⚡️Level](https://EinfxchPingu.de/pl4net)**.
+- 🌏│ My Discord Bot: **[Discord Todo Bot](https://github.com/EinfxchPingu/Discord-Todo-Bot-v14)**.
 - 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)**.
 - 🎥│ I also have a **[Youtube](http://yt.einfxchpingu.de)** Channel.
 
 
 ## 🚀〣 Languages:
 
-![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript)
+![](https://skillicons.dev/icons?i=java,github,mysql,git,html,css,php,javascript, Taurin, Rust)
 
 <br/>
 </p>
