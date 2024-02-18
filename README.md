@@ -9,7 +9,7 @@
 ## 🔎〣 About Me
 
 - 🌏│ My Discord Bot: **[Discord Todo Bot](https://github.com/EinfxchPingu/Discord-Todo-Bot-v14)**.
-- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.de)**.
+- 🧑‍💻│ I have my own **[Website](https://einfxchpingu.net)**.
 - 🎥│ I am a Administrator from **[SnowClient](http://snowclient.de)**.
 
 
