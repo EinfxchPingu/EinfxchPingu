@@ -12,9 +12,7 @@
 
 ## 🚀 - Languages:
 
-![](https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,shell,git,github,mysql,postgres,redis,
-docker,podman,laravel,react,vue,kubernetes,ansible,terraform,nix,
-tailwind,grafana)
+![](https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,shell,git,github,mysql,postgres,redis,docker,podman,laravel,react,vue,kubernetes,ansible,terraform,nix,tailwind,grafana)
 
 <br/>
 </p>
