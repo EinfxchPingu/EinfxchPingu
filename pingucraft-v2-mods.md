@@ -1,6 +1,6 @@
 ### **Alex's Mobs**
 > Fügt **viele neue Tiere & Monster** hinzu – vom realistischen Tier wie Kängurus oder Ameisenbären bis hin zu **fantasievollen Kreaturen** wie fliegenden Quallen oder mystischen Monstern. Jedes hat **einzigartiges Verhalten** und manche droppen coole Items.
-
+https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
 
 ### **Artifacts**
 > Fügt **Zubehörteile** (Assessorien) wie **magische Gürtel, Schuhe, Amulette** usw. hinzu.
