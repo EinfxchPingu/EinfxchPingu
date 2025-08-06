@@ -10,7 +10,7 @@
 > `5.` - Importiere das Modpack
 > 
 
-![warning](https://img.shields.io/badge/WARNING-Kritisch-red?style=for-the-badge)
+![hinweis](https://img.shields.io/badge/HINWEIS-Allgemeine_Information-007ec6?style=for-the-badge&logo=github)
 
 ### **Alex's Mobs**
 > Fügt **viele neue Tiere & Monster** hinzu – vom realistischen Tier wie Kängurus oder Ameisenbären bis hin zu **fantasievollen Kreaturen** wie fliegenden Quallen oder mystischen Monstern. Jedes hat **einzigartiges Verhalten** und manche droppen coole Items.
