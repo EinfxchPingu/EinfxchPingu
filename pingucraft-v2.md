@@ -1,3 +1,10 @@
+### Modpack-Tutorial (CurseForge)
+`1.` - Öffne CurseForge
+`2.` - Klicke auf **"Import Modpack"**
+`3.` - Wähle **"Use Profile Code"**
+`4.` - Gib den Code `YUweKTQB` ein
+`5.` - Importiere das Modpack
+
 ### **Alex's Mobs**
 > Fügt **viele neue Tiere & Monster** hinzu – vom realistischen Tier wie Kängurus oder Ameisenbären bis hin zu **fantasievollen Kreaturen** wie fliegenden Quallen oder mystischen Monstern. Jedes hat **einzigartiges Verhalten** und manche droppen coole Items.
 > https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
