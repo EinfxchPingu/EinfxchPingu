@@ -5,7 +5,7 @@
 > 
 > `3.` - Wähle **"Use Profile Code"**
 > 
-> `4.` - Gib den Code `YUweKTQB` ein
+> `4.` - Gib den Code `RyrHs-pS` ein
 > 
 > `5.` - Importiere das Modpack
 > 
