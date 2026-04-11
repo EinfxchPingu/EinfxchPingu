@@ -6,8 +6,8 @@
 
 ## 🔎 × About Me
 
-- 🗨️│ My Discord Server: **[EinfxchPingu × Coding & Gratis Hosting](https://discord.gg/einfxchpingu)**
-- 🧑‍💻│ I have my own **[Hosting](https://panel.einfxchpingu.net)** where you can get a free bot server & a database
+- 🗨️ ~ My Discord Server: **[EinfxchPingu × Coding & Gratis Hosting](https://discord.gg/einfxchpingu)**
+- 🧑‍💻 ~ I have my own **[Hosting](https://panel.einfxchpingu.net)** where you can get a free bot server & a database
 
 
 ## 🚀 - Languages:
